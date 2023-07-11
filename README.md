@@ -1,6 +1,5 @@
 ### Olá! Sou o Lucas, seja bem vindo ao meu Git 👋
 
-<!--
 Eu sou um Cientista de Dados extremamente curioso, possuo grande entusiasmo ao trabalhar com dados e estou sempre motivado a explorar novas tecnologias e abordagens para extrair o máximo de valor dos dados, prezando sempre pelo aprendizado contínuo.
 
 - 🔭 Atualmente trabalho com Classificações e Previsões com Supervised Learning, Computação Visual com Covolutional Neural Network, 
