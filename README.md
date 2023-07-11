@@ -9,3 +9,5 @@ Eu sou um **Cientista de Dados** *extremamente curioso*, com um grande entusiasm
 - ⚡ Fato interessante: Sou apaixonado por *jogos de estratégia*.
 
 Espero que goste do meu perfil no Git! Se tiver alguma *sugestão* ou *pergunta*, fique à vontade para entrar em contato. 😄
+
+***Ah!* Se tiver vontade, convido você a contemplar meu melhor projeto, que *está em destaque*, logo abaixo** 👇
